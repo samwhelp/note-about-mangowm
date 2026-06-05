@@ -24,7 +24,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Mangowm Config](https://github.com/samwhelp/mangowm-adjustment/tree/main/prototype/main/mangowm-config/part/Main) |
+| [Mango Config](https://github.com/samwhelp/mangowm-adjustment/tree/main/prototype/main/mango-config/part/Main) |
 
 
 
